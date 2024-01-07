@@ -1,4 +1,4 @@
-# set =collection which is unordered, unindexed. No dupicate values
+# set =collection which is unordered, unindexed. No duplicate values allowed
 
 utensils = {"fork", "spoon", "knife"}
 dishes = {"bowl", "plate", "cup", "knife"}
